@@ -1394,6 +1394,21 @@ publishers &lt;- read_csv(publishers, trim_ws = TRUE, skip = 1)</code></pre>
 
 
 
+<div class="content-box-green">
+<h1>On Your Own: Swirl Practice </h1>
+<p>In order to learn R you must do R. Follow the steps below in your RStudio console:</p>
+<ol style="list-style-type: decimal">
+<li>Run this command to pick the course:</li>
+</ol>
+<pre><code>swirl()</code></pre>
+<p>You will be promted to choose a course. Type whatever number is in front of <strong>03 Tidy Data</strong>. This will then take you to a menu of lessons. For now we will complete lessons 2 and 3. Type 2 to choose <strong>Manipulating Data with dplyr/strong> then follow all the instructions until you are finished.</p>
+<p>Once you are finished with the lesson proceed to lesson 3. Type 3 to choose <strong>Grouping and Chaining with dplyr</strong> then follow all the instructions until you are finished.</p>
+<p>Once you are finished with the lesson proceed to you may choose to see how to work with dates in R. Type 4 to choose <strong>Dates and Times with lubridate</strong> then follow all the instructions until you are finished.</p>
+</div>
+
+
+
+
 </div>
 
 <script>
