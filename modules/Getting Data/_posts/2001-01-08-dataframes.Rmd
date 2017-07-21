@@ -215,6 +215,18 @@ head(titanic,4)</code></pre>
 </div>
 
 
+<div class="content-box-green">
+<h1>On Your Own: Swirl Practice </h1>
+<p>In order to learn R you must do R. Follow the steps below in your RStudio console:</p>
+<ol style="list-style-type: decimal">
+<li>Run this command to pick the course:</li>
+</ol>
+<pre><code>swirl()</code></pre>
+<p>You will be promted to choose a course. Type whatever number is in front of <strong>02 Getting Data</strong>. This will then take you to a menu of lessons. For now we will just use lesson 5. Type 5 to choose <strong>Matrices and Dataframes</strong> then follow all the instructions until you are finished.</p>
+<p>Once you are finished with the lesson come back to this course and continue.</p>
+
+</div>
+
 
 
 </div>
