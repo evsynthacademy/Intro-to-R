@@ -137,8 +137,8 @@ test_function("which", args="x")
 test_output_contains("1411")
 success_msg("Great Job")           </code>
               <div data-type="hint">Use your knowledge of indexing and functions that return Booleans.</div>
-              </div>
-            
+</div>
+</div>           
               
               
      
@@ -151,7 +151,6 @@ success_msg("Great Job")           </code>
         <pre><code>swirl()</code></pre>
         <p>You will be promted to choose a course. Type whatever number is in front of <strong>02 Getting Data</strong>. This will then take you to a menu of lessons. For now we will just use lesson 1. Type 1 to choose <strong>Vectors</strong> then follow all the instructions until you are finished.</p>
         <p>Once you are finished with the lesson come back to this course and continue.</p>
-        
 </div>            
 
 
