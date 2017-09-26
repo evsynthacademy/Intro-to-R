@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /Introduction-to-R
+baseurl: /Intro-to-R
 markdown: kramdown
 permalink: /:categories/:title/
 
